@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "database-backed-apis",
+      "title": "Database-backed APIs with SQLite and SQLAlchemy",
+      "description": "Construir una API REST con almacenamiento persistente en SQLite usando SQLAlchemy.",
+      "path": "assignments/database-backed-apis",
+      "dueDate": "2026-05-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
